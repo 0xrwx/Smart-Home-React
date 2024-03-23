@@ -1,4 +1,4 @@
-# Smart-Home-React
+# Smart-Home-React-Express
 This is react application for smart home lamp control. Currently not using any API for dealing with hardware
 
 Every state changing is saving to json file, which used in this app as database of rooms 
